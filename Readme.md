@@ -6,8 +6,8 @@
 > Teaching Assistant: Evangelos Karageorgos
 >
 > Assignment: #0. Hello World 
-> Released: September 3, 2020  
-> **Due: September 6th, 2020**
+> Released: Jan 28, 2021  
+> **Due: Feb 1, 2021**
 
 ### Description
 This is the **test assignment** for the CS 1656 -- Introduction to Data Science (CS 2056) class, for the Spring 2021 semester.
