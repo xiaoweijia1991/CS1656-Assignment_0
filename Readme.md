@@ -1,8 +1,8 @@
 # Repository: template.project0
 # Assignment #0: Hello World
 
-> Course: **[CS 1656 - Introduction to Data Science](http://cs1656.org)** (CS 2056) -- Fall 2020  
-> Instructors: [Alexandros Labrinidis](http://labrinidis.cs.pitt.edu)  
+> Course: **[CS 1656 - Introduction to Data Science](http://cs1656.org)** (CS 2056) -- Spring 2021
+> Instructors: Xiaowei Jia  
 > Teaching Assistant: Evangelos Karageorgos
 >
 > Assignment: #0. Hello World 
